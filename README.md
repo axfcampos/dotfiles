@@ -41,3 +41,7 @@ git push
 ```
 
 If the new plugins are kept as submodules they will all be installed the next time you clone your repo to a new place for a fresh installation.
+
+### Final Result
+
+![Example](https://raw.githubusercontent.com/axfcampos/dotfiles/master/example.png)
