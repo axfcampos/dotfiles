@@ -5,11 +5,11 @@ This is a basic setup configuration for [vim](http://www.vim.org/), [tmux](http:
 
 Requires all three of the above to be previously installed.
 
-# Usage
+### Usage
 ```
-git clone https://github.com/axfcampos/dotfiles.git ~/.vim
-cd ~/.vim
-make
+$ git clone https://github.com/axfcampos/dotfiles.git ~/.vim
+$ cd ~/.vim
+$ make
 ```
 
 Sets up zsh with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) ('clean' theme), defining `.zshrc`.
