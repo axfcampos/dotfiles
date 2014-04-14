@@ -2,6 +2,7 @@ set nocompatible              " be iMproved, required
 filetype off                  " required
 
 execute pathogen#infect()
+execute pathogen#helptags()
 
 filetype plugin indent on     " required
 
@@ -47,3 +48,8 @@ set ignorecase
 
 "Highlight search things
 set hlsearch
+
+" For nesC highlight to work
+augroup filetypedetect
+  au! BufRead,BufNewFile *nc setfiletype nc
+augroup END
