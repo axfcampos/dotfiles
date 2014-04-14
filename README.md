@@ -25,7 +25,8 @@ Sets up your vim with several plugins using [pathogen](https://github.com/tpope/
 * [vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides)
 * [delimitMate](https://github.com/Raimondi/delimitMate)
 * [vim-javascript-syntax](https://github.com/jelera/vim-javascript-syntax)
-
+* [python-mode](https://github.com/klen/python-mode)
+* [nesC highlighting](https://github.com/vim-scripts/NesC-Syntax-Highlighting) (Although not as a submodule, since its not in bundle)
 Last but not least, the [Inconsolata for Powerline](https://github.com/Lokaltog/powerline-fonts/tree/master/Inconsolata) font is added.
 
 You can also add the [Solarized Theme to iTerm2](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized) for full solarization!
