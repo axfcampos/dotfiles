@@ -6,7 +6,7 @@ justdoit:
 	
 	# update plugins
 	git submodule init
-	git subdmodule update --init --recursive
+	git submodule update --init --recursive
 	
 	# install YouCompleteMe
 	./bundle/YouCompleteMe/install.sh --clang-completer
