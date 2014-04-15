@@ -30,6 +30,8 @@ Last but not least, the [Inconsolata for Powerline](https://github.com/Lokaltog/
 
 You can also add the [Solarized Theme to iTerm2](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized) for full solarization!
 
+Also for [Gnome Terminal](https://github.com/sigurdga/gnome-terminal-colors-solarized.git)!
+
 Finally, if you wish to [add more plugins](http://usevim.com/2012/03/01/using-pathogen-with-git-submodules/) to vim using pathogen:
 
 ```
