@@ -1,6 +1,8 @@
 dotfiles
 ========
 
+**I no longer use these configs. Current setup at: https://github.com/axfcampos/.terminal.configs**
+
 This is a basic setup configuration for [vim](http://www.vim.org/), [tmux](http://tmux.sourceforge.net/) and [zsh](http://www.zsh.org/).
 
 Requires all three of the above to be previously installed.
